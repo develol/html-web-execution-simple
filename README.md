@@ -1,6 +1,6 @@
 # html-web-execution-simple
 [HTML] Is a simple web-based HTML code executor. It is focused on mobile device browsers\
-**[Example](https://deve.lol/www/htmlexecution/)**
+**[Example](https://php.deve.lol/htmlexecution/)**
 
 **[JS executor](https://github.com/develol/js-web-execution-simple)**
 
